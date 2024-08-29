@@ -1,9 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <img src="logo.png" alt="logo" width="140"  height="auto" />
-  <h1><b>Blog App</b></h1>
-</div>
 <!-- PROJECT DESCRIPTION -->
 
 # 🎯 Blog App<a name="about-project"></a>
